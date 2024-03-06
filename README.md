@@ -35,6 +35,12 @@ To import the libraries-
 Installation method for the libraies are:
 
 
+- To install the proper version that I have installed I made a `requirements.txt` file to make it easy for you to install the same
+
+```bash
+pip install -r https://github.com/Sayan-Maity-Code/Laptop_price_predictor/blob/main/requirements.txt
+```
+
 ```bash 
 pip install numpy pandas scikit-learn
 ```
